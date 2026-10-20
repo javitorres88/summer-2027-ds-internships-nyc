@@ -1,0 +1,3 @@
+# Normalize line endings so the PowerShell scripts run identically on
+# Windows (local) and Linux (GitHub Actions).
+* text=auto eol=lf

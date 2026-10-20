@@ -1,0 +1,39 @@
+name: Refresh internship listings
+
+on:
+  schedule:
+    - cron: '0 13 * * 1' # Mondays 13:00 UTC
+  workflow_dispatch: # or run it manually from the Actions tab / phone
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape employer job boards
+        shell: pwsh
+        run: ./scripts/Find-Internships.ps1
+
+      - name: Pull job descriptions
+        shell: pwsh
+        run: ./scripts/Get-Descriptions.ps1
+
+      - name: Rebuild README
+        shell: pwsh
+        run: ./scripts/New-Report.ps1
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/internships.csv data/enriched.csv
+          if git diff --cached --quiet; then
+            echo "No changes this week."
+          else
+            git commit -m "chore: refresh internship listings"
+            git push
+          fi
