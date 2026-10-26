@@ -1,12 +1,12 @@
 # Summer 2027 Data Science Internships - New York City
 
-Live, verified list of **60 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-10-20.
+Live, verified list of **53 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-10-26.
 
 Every posting was pulled from the employer's own applicant-tracking system (Greenhouse, Lever, Ashby, Workday) and confirmed open. Degree level in the tables was checked against the actual job description text, not guessed from the title.
 
 **Level key:** `MS` = program built for master's students &nbsp;|&nbsp; `MSok` = master's explicitly eligible &nbsp;|&nbsp; `?` = posting doesn't state a degree level &nbsp;|&nbsp; `PhD` = PhD-only &nbsp;|&nbsp; `UG` = undergrad-focused
 
-**Snapshot:** 7 master's-targeted &nbsp;|&nbsp; 19 master's-eligible &nbsp;|&nbsp; 9 unstated &nbsp;|&nbsp; 16 PhD/undergrad &nbsp;|&nbsp; 9 outside NYC
+**Snapshot:** 4 master's-targeted &nbsp;|&nbsp; 18 master's-eligible &nbsp;|&nbsp; 9 unstated &nbsp;|&nbsp; 15 PhD/undergrad &nbsp;|&nbsp; 7 outside NYC
 
 ---
 
@@ -27,9 +27,6 @@ Every posting was pulled from the employer's own applicant-tracking system (Gree
 
 | Company | Role | Level | Where |
 |---|---|---|---|
-| blackrock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) <sub>30d+</sub> | MS | NYC |
-| blackrock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473) <sub>30d+</sub> | MS | NYC |
-| blackrock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) <sub>30d+</sub> | MS | NYC |
 | lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | MS | NYC |
 | pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | MS | NYC / SF / Palo Alto / Seattle |
 | pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | MS | NYC / SF / Palo Alto / Seattle |
@@ -51,7 +48,6 @@ Every posting was pulled from the employer's own applicant-tracking system (Gree
 | dvtrading | [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | MSok | NYC |
 | imc | [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | MSok | NYC |
 | jumptrading | [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | MSok | NYC / Chicago |
-| lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | MSok | NYC |
 | point72 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | MSok | NYC |
 | point72 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | MSok | NYC / Seattle |
 | point72 | [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) | MSok | NYC |
@@ -86,7 +82,6 @@ Read the posting before investing time; several are MS/PhD in practice.
 | figma | [PhD Intern, AI Applied Scientist (2027)](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) | PhD | NYC / SF |
 | figma | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | PhD | NYC / SF |
 | flowtraders | [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | UG | NYC |
-| imc | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | PhD | NYC |
 | jumptrading | [Campus Quantitative Researcher, PhD (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8049938) | PhD | NYC / Chicago |
 | jumptrading | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | UG | NYC / Chicago |
 | pdtpartners | [Summer 2027 Quantitative Research Intern - PhD/Postdoctoral](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | PhD | NYC |
@@ -109,10 +104,8 @@ Greenwich, CT is about 50 minutes from Grand Central.
 | aqr | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | ? | Greenwich CT |
 | aqr | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | ? | Greenwich CT |
 | aqr | [2027 PhD Summer Associate, Machine Learning Research](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | PhD | Greenwich CT |
-| aqr | [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | ? | Greenwich CT |
 | aqr | [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | MSok | Greenwich CT |
 | aqr | [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | ? | Greenwich CT |
-| aqr | [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | ? | Greenwich CT |
 | aqr | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | MSok | Greenwich CT |
 | aqr | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | MSok | Greenwich CT |
 
