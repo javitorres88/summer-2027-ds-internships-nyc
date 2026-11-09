@@ -1,12 +1,12 @@
 # Summer 2027 Data Science Internships - New York City
 
-Live, verified list of **58 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-11-02.
+Live, verified list of **51 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-11-09.
 
 Every posting was pulled from the employer's own applicant-tracking system (Greenhouse, Lever, Ashby, Workday) and confirmed open. Degree level in the tables was checked against the actual job description text, not guessed from the title.
 
 **Level key:** `MS` = program built for master's students &nbsp;|&nbsp; `MSok` = master's explicitly eligible &nbsp;|&nbsp; `?` = posting doesn't state a degree level &nbsp;|&nbsp; `PhD` = PhD-only &nbsp;|&nbsp; `UG` = undergrad-focused
 
-**Snapshot:** 7 master's-targeted &nbsp;|&nbsp; 17 master's-eligible &nbsp;|&nbsp; 14 unstated &nbsp;|&nbsp; 13 PhD/undergrad &nbsp;|&nbsp; 7 outside NYC
+**Snapshot:** 4 master's-targeted &nbsp;|&nbsp; 16 master's-eligible &nbsp;|&nbsp; 13 unstated &nbsp;|&nbsp; 12 PhD/undergrad &nbsp;|&nbsp; 6 outside NYC
 
 ---
 
@@ -27,9 +27,6 @@ Every posting was pulled from the employer's own applicant-tracking system (Gree
 
 | Company | Role | Level | Where |
 |---|---|---|---|
-| blackrock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) <sub>30d+</sub> | MS | NYC |
-| blackrock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473) <sub>30d+</sub> | MS | NYC |
-| blackrock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) <sub>30d+</sub> | MS | NYC |
 | lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | MS | NYC |
 | pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | MS | NYC / SF / Palo Alto / Seattle |
 | pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | MS | NYC / SF / Palo Alto / Seattle |
@@ -45,7 +42,6 @@ Every posting was pulled from the employer's own applicant-tracking system (Gree
 | coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | MSok | NYC (hybrid) |
 | coinbase | [People Analytics Intern](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) | MSok | NYC (hybrid) |
 | drweng | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | MSok | NYC / Chicago |
-| duolingo | [Data Scientist, Intern](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002) | MSok | NYC / Pittsburgh |
 | dvtrading | [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | MSok | NYC |
 | dvtrading | [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | MSok | NYC |
 | dvtrading | [Quantitative Trading Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | MSok | NYC |
@@ -65,18 +61,17 @@ Read the posting before investing time; several are MS/PhD in practice.
 
 | Company | Role | Level | Where |
 |---|---|---|---|
-| blackrock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) <sub>30d+</sub> | ? | NYC |
+| duolingo | [AI Research Intern (PhD)](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) | ? | NYC / Pittsburgh |
 | figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | ? | NYC / SF |
-| figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | ? | NYC / SF |
 | jumptrading | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | ? | NYC / Chicago |
 | jumptrading | [Campus AI Research Engineer - Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | ? | NYC / Chicago |
 | jumptrading | [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | ? | NYC / Chicago |
 | modal | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | ? | NYC / SF |
+| pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | ? | NYC / SF / Seattle |
 | point72 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | ? | NYC |
 | point72 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | ? | NYC |
 | point72 | [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) | ? | NYC |
 | schonfeld | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | ? | NYC |
-| schonfeld | [2027 Enterprise AI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | ? | NYC |
 | stripe | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | ? | NYC / SF / Seattle |
 | stripe | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662) | ? | NYC / SF / Seattle |
 
@@ -95,7 +90,6 @@ Read the posting before investing time; several are MS/PhD in practice.
 | pinterest | [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | PhD | NYC / SF / Palo Alto / Seattle |
 | pinterest | [PhD Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) | PhD | NYC / SF / Palo Alto / Seattle |
 | point72 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | PhD | NYC |
-| stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | PhD | NYC / SF / Seattle |
 | virtu | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | PhD | NYC |
 | virtu | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | UG | NYC / Chicago / Austin |
 
@@ -110,7 +104,6 @@ Greenwich, CT is about 50 minutes from Grand Central.
 | aqr | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | ? | Greenwich CT |
 | aqr | [2027 PhD Summer Associate, Machine Learning Research](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | PhD | Greenwich CT |
 | aqr | [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | MSok | Greenwich CT |
-| aqr | [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | ? | Greenwich CT |
 | aqr | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | MSok | Greenwich CT |
 | aqr | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | MSok | Greenwich CT |
 
