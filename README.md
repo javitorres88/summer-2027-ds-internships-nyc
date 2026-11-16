@@ -1,12 +1,12 @@
 # Summer 2027 Data Science Internships - New York City
 
-Live, verified list of **51 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-11-09.
+Live, verified list of **49 open internship postings** for a data science master's student in the NYC area. Refreshed 2026-11-16.
 
 Every posting was pulled from the employer's own applicant-tracking system (Greenhouse, Lever, Ashby, Workday) and confirmed open. Degree level in the tables was checked against the actual job description text, not guessed from the title.
 
 **Level key:** `MS` = program built for master's students &nbsp;|&nbsp; `MSok` = master's explicitly eligible &nbsp;|&nbsp; `?` = posting doesn't state a degree level &nbsp;|&nbsp; `PhD` = PhD-only &nbsp;|&nbsp; `UG` = undergrad-focused
 
-**Snapshot:** 4 master's-targeted &nbsp;|&nbsp; 16 master's-eligible &nbsp;|&nbsp; 13 unstated &nbsp;|&nbsp; 12 PhD/undergrad &nbsp;|&nbsp; 6 outside NYC
+**Snapshot:** 4 master's-targeted &nbsp;|&nbsp; 15 master's-eligible &nbsp;|&nbsp; 13 unstated &nbsp;|&nbsp; 12 PhD/undergrad &nbsp;|&nbsp; 5 outside NYC
 
 ---
 
@@ -38,7 +38,6 @@ Every posting was pulled from the employer's own applicant-tracking system (Gree
 | Company | Role | Level | Where |
 |---|---|---|---|
 | coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | MSok | NYC (hybrid) |
-| coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | MSok | NYC (hybrid) |
 | coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | MSok | NYC (hybrid) |
 | coinbase | [People Analytics Intern](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) | MSok | NYC (hybrid) |
 | drweng | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | MSok | NYC / Chicago |
@@ -90,8 +89,8 @@ Read the posting before investing time; several are MS/PhD in practice.
 | pinterest | [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | PhD | NYC / SF / Palo Alto / Seattle |
 | pinterest | [PhD Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) | PhD | NYC / SF / Palo Alto / Seattle |
 | point72 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | PhD | NYC |
+| stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | PhD | NYC / SF / Seattle |
 | virtu | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | PhD | NYC |
-| virtu | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | UG | NYC / Chicago / Austin |
 
 
 ## Outside NYC, but commutable
@@ -103,7 +102,6 @@ Greenwich, CT is about 50 minutes from Grand Central.
 | aqr | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | ? | Greenwich CT |
 | aqr | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | ? | Greenwich CT |
 | aqr | [2027 PhD Summer Associate, Machine Learning Research](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | PhD | Greenwich CT |
-| aqr | [2027 Quantitative Prediction Markets Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | MSok | Greenwich CT |
 | aqr | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | MSok | Greenwich CT |
 | aqr | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | MSok | Greenwich CT |
 
